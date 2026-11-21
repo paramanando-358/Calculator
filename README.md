@@ -28,7 +28,8 @@ A simple Android Calculator application developed using Java and XML in Android 
 
 The following screenshot shows the calculator interface and its layout structure in Android Studio.
 
-![Calculator UI Preview](screenshots/calculator-ui.png)
+<img width="549" height="403" alt="image" src="https://github.com/user-attachments/assets/f015a216-65f3-4988-abd2-03cb3e6b4795" />
+
 
 ## Development Process
 
